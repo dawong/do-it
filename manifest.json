@@ -1,0 +1,19 @@
+{
+	"manifest_version": 2,
+	
+	"name": "Getting started example",
+	"description": "This extension shows a Google Image search result for the current page",
+	"version": "1.0",
+	
+	"browser_action": {
+		"default_icon": "do_it.png",
+		"default_title": "DO IT!"
+	},
+	"background": {
+		"scripts": ["do_it.js"]
+	},
+	"permissions": [
+		"activeTab",
+		"https://ajax.googleapis.com/"
+	]
+}
