@@ -11,4 +11,4 @@ To install:
 * click "Load unpacked extension"
 * find the folder you downloaded in the step above and click "ok"
 
-If you're ever feeling lazy and getting off track, just click the button for a friendly reminder.
+If you're ever feeling lazy and about to slack, just click the button to get back on track.
