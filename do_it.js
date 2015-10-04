@@ -1,5 +1,5 @@
 var myAudio = new Audio();
-myAudio.src = "Shia LaBeouf_Just_Do_It_Motivational_Speech.mp3";
+myAudio.src = "just_do_it.mp3";
 var play = true;
 chrome.browserAction.onClicked.addListener(function() {
 	if (myAudio.ended || play) {
